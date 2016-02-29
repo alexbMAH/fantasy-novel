@@ -2,7 +2,11 @@ Chapter 1
 
 The beginning of a fascinating story. Something about dragons and wizards. Etc.
 
+<<<<<<< HEAD
 The hero is fabulously victorious, and handsome!
+=======
+The anti-hero is a scurrilous swine!
+>>>>>>> origin/master
 
 Everyone goes to the tavern and drinks ale. There are dwarves.
 
